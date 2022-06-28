@@ -1,0 +1,317 @@
+{
+  "Students": [
+    {
+      "id": 1,
+      "name": "tarun",
+      "password": "456456"
+    },
+    {
+      "id": 2,
+      "name": "Ram",
+      "password": "55555"
+    },
+    {
+      "email": "Ram Kumawat singh",
+      "password": "7894561230",
+      "id": 3
+    },
+    {
+      "email": "Parveen Gupta Pg",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "email": "Parveen Gupta Pg",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "email": "Parveen Gupta Pg",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "email": "Parveen Gupta Pg",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "email": "Parveen Gupta Pg",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "email": "Parveen Gupta Pg",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "email": "tarunkumar@gmail.com",
+      "password": "123456789",
+      "studata": {
+        "name": "farida",
+        "address": "Turkey"
+      },
+      "id": 10
+    },
+    {
+      "email": "Ram kumawat singh",
+      "password": "123456789",
+      "studata": {
+        "name": "farida",
+        "address": "Turkey"
+      },
+      "id": 11
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 12
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 13
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 14
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 15
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 16
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 17
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 18
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 19
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 20
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 21
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 22
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "id": 23
+    },
+    {
+      "email": "hghg",
+      "password": "kojukl",
+      "studata": {
+        "name": "farida",
+        "address": "Turkey"
+      },
+      "id": 24
+    },
+    {
+      "email": "Dheeraj kumar",
+      "password": "123456789",
+      "studata": {
+        "name": "farida",
+        "address": "Turkey"
+      },
+      "id": 25
+    },
+    {
+      "email": "hjgjh",
+      "password": "123456789",
+      "studata": {
+        "name": "farida",
+        "address": "Turkey"
+      },
+      "id": 26
+    },
+    {
+      "email": "fghghg",
+      "password": "nkljjk",
+      "id": 27
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 28
+    },
+    {
+      "email": "uiktyiu",
+      "password": "ygjhgjgh",
+      "id": 29
+    },
+    {
+      "email": "hgjhgj",
+      "password": "hgjhg",
+      "id": 30
+    },
+    {
+      "email": "dheeraj kumar",
+      "password": "788956",
+      "id": 31
+    },
+    {
+      "email": "fdfsd",
+      "password": "dsfds",
+      "id": 32
+    },
+    {
+      "email": "yuiiu",
+      "password": "uiyiuy",
+      "id": 33
+    },
+    {
+      "email": "sfds",
+      "password": "sdfsdf",
+      "id": 34
+    },
+    {
+      "email": "uhhjhj",
+      "password": "nmknmnm",
+      "id": 35
+    },
+    {
+      "email": "dwefgdg",
+      "password": "fgdfg",
+      "id": 36
+    },
+    {
+      "email": "sdfsd",
+      "password": "sdfsd",
+      "id": 37
+    },
+    {
+      "email": "sdfsd",
+      "password": "sdfsd",
+      "id": 38
+    },
+    {
+      "email": "dheeraj kumar",
+      "password": "123456988",
+      "id": 39
+    },
+    {
+      "email": "dheeraj kumar",
+      "password": "123456988",
+      "id": 40
+    },
+    {
+      "email": "fgoijhfg",
+      "password": "gffgjhf",
+      "id": 41
+    },
+    {
+      "id": 42
+    },
+    {
+      "id": 43
+    },
+    {
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "id": 47
+    },
+    {
+      "id": 48
+    },
+    {
+      "email": "truy",
+      "password": "ytutyu",
+      "id": 49
+    },
+    {
+      "id": 50
+    },
+    {
+      "email": "trytry",
+      "password": "tryrt",
+      "id": 51
+    },
+    {
+      "id": 52
+    },
+    {
+      "id": 53
+    },
+    {
+      "id": 54
+    },
+    {
+      "id": 55
+    },
+    {
+      "id": 56
+    },
+    {
+      "id": 57
+    },
+    {
+      "email": "gdsgfe",
+      "password": "fgfd",
+      "id": 58
+    },
+    {
+      "name": "",
+      "password": "fdgbf",
+      "id": 59
+    },
+    {
+      "name": "",
+      "password": "",
+      "id": 60
+    },
+    {
+      "name": "",
+      "password": "ffffff",
+      "email": "ffff",
+      "id": 61
+    },
+    {
+      "name": "",
+      "password": "dddd",
+      "id": 62
+    },
+    {
+      "email": "thtryh",
+      "password": "tytr",
+      "id": 63
+    },
+    {
+      "email": "Parveen kumar",
+      "password": "123456789",
+      "id": 64
+    }
+  ]
+}
